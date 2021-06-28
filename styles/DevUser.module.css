@@ -1,0 +1,16 @@
+.cover{
+    background-image: url("https://images.contentstack.io/v3/assets/bltc5a09bf374882538/blt8f68f45f60127539/6059b7cb5d7a7e0ef01a9ded/homePage_peopleStrip-2.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+    width: 100%;
+}
+.Text{
+    color: white;
+    margin-top: 40%;
+}
+.TextSecond{
+    color: white;
+    margin-top: 40%;
+    margin-left: 5%;
+}

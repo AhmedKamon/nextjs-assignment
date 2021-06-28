@@ -1,0 +1,26 @@
+.cover{
+    background-image: url('https://images.contentstack.io/v3/assets/bltc5a09bf374882538/blte0288e190676ee6b/606ede15e5ac4c2c44b76e28/CustomerSuccess_SVG.svg');
+    background-color: #2a0f57;
+    background-repeat: no-repeat;
+    background-position: right;
+    width: 100%;
+    height: 100%;
+    padding-bottom: 5%;
+    padding-top: 5%;
+}
+.text{
+    color:  #eb5646;
+}
+.textColor{
+    color: white;
+}
+.box{
+    background-color: white;
+    height: 400px;
+    width: 600px;
+    padding: 10%;
+    border: 15px solid #7c4dff;
+}
+.new{
+    color: #7c4dff;
+}

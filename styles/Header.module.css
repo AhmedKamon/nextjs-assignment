@@ -1,0 +1,21 @@
+.main {
+    background-image: url('https://images.contentstack.io/v3/assets/bltc5a09bf374882538/blta79d9b1053f0cc48/605465535046ba0f2d726f30/Homepage_header-0321.jpg');
+    height: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    
+}
+.text{
+    margin-left: 5%;
+    margin-top: 2%;
+}
+.text h1{
+    font-weight: 800;
+    font-size: 45px;
+}
+.sideText{
+    margin-top: 20%;
+}

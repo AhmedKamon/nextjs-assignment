@@ -1,0 +1,14 @@
+.main{
+    background-image: url("https://images.contentstack.io/v3/assets/bltc5a09bf374882538/blt7ac2a0c587b48e49/6024306e37c7bc6afba53242/Waves.svg");
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+    width: 100%;
+}
+.more{
+    margin-top: 10%;
+    font-size: larger;
+}
+.allText{
+    margin: auto;
+}
